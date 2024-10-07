@@ -6,8 +6,8 @@
 
 ## **Topic**
 
-### **ADIS** (Topic)
-- **Component** (Topic)
+### **ADIS** 🔵
+- **Component** 🟢
   - TMAngularMeter
   - TMButtonCommand
   - TMDataView
@@ -20,7 +20,7 @@
   - TMMultiPlot
   - TMPictureBox
   - TMTextBox
-- **Device** (Topic)
+- **Device** 🟡
   - BeckHoffPLCDevDll
   - CQNX
   - PowerAnalyzer
@@ -47,7 +47,7 @@
   - PeakMultiCANDll
   - ModbusMultiSerDll
   - ModbusMultiTCPDll
-- **ETC** (Topic)
+- **ETC** 🟣
   - FileRunMonitoring
   - FtpClientSample
   - GlobalDataSave
@@ -79,12 +79,12 @@
 
 ---
 
-### **UTS** (Topic)
-- **Utility** (Topic)
+### **UTS** 🔵
+- **Utility** 🟢
   - MPC
   - Mx Component 5x
   - NI DAQmx
-- **Device** (Topic)
+- **Device** 🟡
   - ABOPCDLL
   - C2024
   - ETBDEV_NI
@@ -102,7 +102,7 @@
   - TcpSocket_Melsec
   - TcpSocket_Melsec_UTL
   - SiemensPLC
-- **Database** (Topic)
+- **Database** 🟠
   - DataControlProgram
   - DBI.dll
   - DBI_DCT.dll
@@ -115,8 +115,8 @@
   - DataViewerProgram
   - DataViewer_Lite
   - OldDataMoveProgram
-- **DAQ** (Topic)
-- **Composition** (Topic)
+- **DAQ** 🟢
+- **Composition** 🟣
   - ChlSET
   - CSEditor
   - ETBDB
@@ -137,7 +137,7 @@
   - CShareMemory
   - AlarmControl(AlarmManager)
   - UTSLib
-- **Component** (Topic)
+- **Component** 🟢
   - UTS_AlarmConfig
   - UTS_Button
   - UTS_ComboBox
@@ -163,7 +163,7 @@
   - UTS_ProfileControl
   - UTS_TextBox
   - UTS_TextBoxDouble
-- **ETC** (Topic)
+- **ETC** 🟣
   - DataSave4AVL
   - EventDataViewer
   - QCANDB
